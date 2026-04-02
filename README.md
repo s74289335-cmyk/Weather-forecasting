@@ -1,5 +1,10 @@
 # 🌦️ Global Weather Trend Forecasting
 
+## 🌐 PM Accelerator Mission
+By making industry-leading tools and education available to individuals from all backgrounds, we level the playing field for future PM leaders. This is the PM Accelerator motto, as we grant aspiring and experienced PMs what they need most – Access. We introduce you to industry leaders, surround you with the right PM ecosystem, and discover the new world of AI product management skills.
+
+---
+
 ## 📌 Overview
 
 This project analyzes global weather data and forecasts future temperature trends using advanced data science and machine learning techniques.
@@ -53,14 +58,14 @@ It combines statistical and deep learning approaches to provide accurate and int
 
 ### 🔹 Backend
 
-cd backend
-pip install -r requirements.txt
+cd backend, 
+pip install -r requirements.txt, 
 uvicorn main:app --reload
 
 ### 🔹 Frontend
 
-cd frontend
-npm install
+cd frontend, 
+npm install, 
 npm start
 
 ---
@@ -75,11 +80,5 @@ npm start
 ## 🎥 Demo Video
 
 [(Add your video link here)](https://drive.google.com/file/d/10ZrHV0utKoJDvdvzTAG3S1O3zUdHHUiy/view?usp=drive_link)
-
----
-
-## 🌐 PM Accelerator Mission
-
-This project aligns with PM Accelerator’s mission of empowering individuals with real-world AI, data science, and product-building skills through hands-on projects.
 
 ---
